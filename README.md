@@ -1,11 +1,15 @@
-### Hi there 👋
+###  👋 Hi there,  I'm Prasad, a data analyst passionate about extracting insights from data and creating compelling visualizations. Welcome to my GitHub repository, where I showcase my projects and share my journey in the world of data analytics.
 
+## About Me
+
+- 🎓 Recently completed my Master's degree in Data Analytics.
+- 👨‍⚕️ I have 3 years of experience in Data Analysis
 <!--
 **prasadkatore/prasadkatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
